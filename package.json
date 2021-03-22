@@ -1,0 +1,6 @@
+{
+  "name": "@material-ui/core",
+  "version": "4.11.1",
+  "main": "index.js",
+  "types": "index"
+}
